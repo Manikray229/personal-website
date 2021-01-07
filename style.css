@@ -1,0 +1,82 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+ul{
+    float: right;
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: orange;
+    padding: 5px 20px;
+    border: 1px solid tomato;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.name-highlight{
+    color: lightsalmon;
+}
+.link-button{
+    text-decoration: none ;
+    background-color: tomato ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-width img {
+    width: 100%;
+}
+.project-1{
+    text-align: center;
+}
+.project-area{
+    float: left;
+    height: 500px;
+}
+.half-width2{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width2 img{
+    width: 100%;
+}
+.Work-inq{
+    background-image: url(./Group_33094_1.png);
+    background-repeat: no-repeat;
+    margin: 800px 20% 100px 30%;
+    height: 200px;
+    background-size: contain;
+}
+.buttom{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#work-inquiry{
+    color: rgb(251, 251, 251);
+    padding-top: 50px;
+}
+.newchat{
+    margin-top:85px;
+}
+.stay-connected{
+    text-align: center;
+    color: gray;
+}
+.hello-manik{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
